@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="junit">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/junit/junit" />
+      <root url="file://$USER_HOME$/Downloads/hamcrest-core-2.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/junit/junit/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/junit/junit/src/main/test" />
+    </SOURCES>
+  </library>
+</component>
